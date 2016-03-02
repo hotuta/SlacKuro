@@ -6,7 +6,7 @@ SlacKuro
 ##概要
 公式デスクトップSlackクライアントが「重い」、「通知がいい感じでこない」などと不満に思ってませんか?  
 MITライセンスである最高過ぎるChrome拡張Twitterクライアントアプリの[「KuroTwi」](https://github.com/oken1/kurotwi)を元にSlackクライアントの開発を行っています。  
-オープンソースプロジェクトとして1人でも多くの方が些細な事でもPRして頂けると嬉しい限りです。  
+オープンソースプロジェクトとして1人でも多くの方が些細な事でも開発に携わりPRをして頂けると嬉しい限りです。  
 
 ## 使い方
 
@@ -30,8 +30,7 @@ Chromeのみ開けます (chrome://extensions/)
 まだ「KuroTwi」のままなのでAPI周りを中心に書き換えが出来ればと思います。
 
 ## Related project
-
-本家: [oken1/kurotwi](https://github.com/oken1/kurotwi)  
+元となったクライアントリポジトリ: [oken1/kurotwi](https://github.com/oken1/kurotwi)  
 
 ## LICENSE
 
